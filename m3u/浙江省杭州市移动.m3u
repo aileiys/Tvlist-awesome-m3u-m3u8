@@ -9,7 +9,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226114/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 ,浙江警视[720*576]
 http://112.17.40.140/PLTV/88888888/224/3221226118/index.m3u8
-#EXTINF:-1 ,央视7[1920*1080]
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="高清频道",央视7[1920*1080]
 http://112.17.40.140/PLTV/88888888/224/3221226122/index.m3u8
 #EXTINF:-1 ,新疆卫视[720*576]
 http://112.17.40.140/PLTV/88888888/224/3221226124/index.m3u8
