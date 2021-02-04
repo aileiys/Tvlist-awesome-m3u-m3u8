@@ -30,7 +30,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226167/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视超清",央视少儿
 http://112.17.40.140/PLTV/88888888/224/3221226126/index.m3u8
 
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV4K" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视4K",CCTV4K
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV4K" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/blob/master/img/cctv4k.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视4K",CCTV4K
 http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="央视高清",央视3
@@ -111,27 +111,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="凤凰资讯" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/16/Phoenix_InfoNews.svg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",凤凰资讯
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 
-#EXTINF:-1 ,河北卫视[720*576]
-http://112.17.40.140/PLTV/88888888/224/3221226110/index.m3u8
-
-#EXTINF:-1 ,山西卫视[720*576]
-http://112.17.40.140/PLTV/88888888/224/3221226114/index.m3u8
-
-#EXTINF:-1 ,海南卫视[720*576]
-http://112.17.40.140/PLTV/88888888/224/3221226116/index.m3u8
-
-#EXTINF:-1 ,浙江警视[720*576]
-http://112.17.40.140/PLTV/88888888/224/3221226118/index.m3u8
-
-#EXTINF:-1 ,新疆卫视[720*576]
-http://112.17.40.140/PLTV/88888888/224/3221226124/index.m3u8
-
-#EXTINF:-1 ,音乐台[1280*720]
-http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
-
-#EXTINF:-1 ,河南卫视[768*576]
-http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
-
 #EXTINF:-1 tvg-id="41" tvg-name="CETV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方标清",CETV1
 http://112.17.40.140/PLTV/88888888/224/3221226132/index.m3u8
 
@@ -162,13 +141,10 @@ http://112.17.40.140/PLTV/88888888/224/3221226144/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="吉林卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",吉林卫视
 http://112.17.40.140/PLTV/88888888/224/3221226158/index.m3u8
 
-#EXTINF:-1 ,西藏卫视[720*576]
-http://112.17.40.140/PLTV/88888888/224/3221226160/index.m3u8
-
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",北京卫视
 http://112.17.40.140/PLTV/88888888/224/3221226164/index.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86#/media/File:HNSTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://en.wikipedia.org/wiki/Hunan_Television#/media/File:HunanTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",湖南卫视
 http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8
 
 #EXTINF:-1 ,明珠综合1[768*576]
@@ -204,15 +180,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226184/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",安徽卫视
 http://112.17.40.140/PLTV/88888888/224/3221226185/index.m3u8
 
-#EXTINF:-1 ,金鹰卡通[768*576]
-http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
-
-#EXTINF:-1 ,青海卫视[720*576]
-http://112.17.40.140/PLTV/88888888/224/3221226191/index.m3u8
-
-#EXTINF:-1 ,兵团卫视[720*576]
-http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
-
 #EXTINF:-1 ,甘肃卫视[720*576]
 http://112.17.40.140/PLTV/88888888/224/3221226187/index.m3u8
 
@@ -236,6 +203,30 @@ http://112.17.40.140/PLTV/88888888/224/3221226212/index.m3u8
 
 #EXTINF:-1 ,四川卫视[720*576]
 http://112.17.40.140/PLTV/88888888/224/3221226215/index.m3u8
+
+#EXTINF:-1 ,河北卫视[720*576]
+http://112.17.40.140/PLTV/88888888/224/3221226110/index.m3u8
+
+#EXTINF:-1 ,山西卫视[720*576]
+http://112.17.40.140/PLTV/88888888/224/3221226114/index.m3u8
+
+#EXTINF:-1 ,海南卫视[720*576]
+http://112.17.40.140/PLTV/88888888/224/3221226116/index.m3u8
+
+#EXTINF:-1 ,浙江警视[720*576]
+http://112.17.40.140/PLTV/88888888/224/3221226118/index.m3u8
+
+#EXTINF:-1 ,新疆卫视[720*576]
+http://112.17.40.140/PLTV/88888888/224/3221226124/index.m3u8
+
+#EXTINF:-1 ,音乐台[1280*720]
+http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
+
+#EXTINF:-1 ,河南卫视[768*576]
+http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
+
+#EXTINF:-1 ,西藏卫视[720*576]
+http://112.17.40.140/PLTV/88888888/224/3221226160/index.m3u8
 
 #EXTINF:-1 ,重庆卫视[1280*720]
 http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
@@ -290,6 +281,15 @@ http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
 
 #EXTINF:-1 ,明珠影视[768*576]
 http://112.17.40.140/PLTV/88888888/224/3221226362/index.m3u
+
+#EXTINF:-1 ,金鹰卡通[768*576]
+http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
+
+#EXTINF:-1 ,青海卫视[720*576]
+http://112.17.40.140/PLTV/88888888/224/3221226191/index.m3u8
+
+#EXTINF:-1 ,兵团卫视[720*576]
+http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
 
 #EXTINF:-1 ,精品大剧[1920*1080]
 http://112.17.40.140/PLTV/88888888/224/3221226392/index.m3u8
@@ -399,7 +399,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pic.90sjimg.com/design/01/45/61/40/59266613af029.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",浙江卫视
 http://112.17.40.140/PLTV/88888888/224/3221226551/index.m3u8
 
-#EXTINF:-1 tvg-id="36" tvg-name="湖南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86#/media/File:HNSTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",湖南卫视
+#EXTINF:-1 tvg-id="36" tvg-name="湖南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://en.wikipedia.org/wiki/Hunan_Television#/media/File:HunanTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",湖南卫视
 http://112.17.40.140/PLTV/88888888/224/3221226553/index.m3u8
 
 #EXTINF:-1 ,央视5[768*576]
