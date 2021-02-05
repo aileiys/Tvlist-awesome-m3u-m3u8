@@ -105,7 +105,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226112/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="百事4K" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="百事4K",百事4K
 http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
 
-#EXTINF:-1 tvg-id="32" tvg-name="凤凰卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/img/Phoenix_Chinese.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",凤凰卫视
+#EXTINF:-1 tvg-id="32" tvg-name="凤凰卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/fenghuang.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",凤凰卫视
 http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
 
 #EXTINF:-1 tvg-id="32" tvg-name="凤凰资讯" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/img/Phoenix_InfoNews.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",凤凰资讯
@@ -114,37 +114,37 @@ http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="CETV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/img/CETV1_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="地方标清",CETV1
 http://112.17.40.140/PLTV/88888888/224/3221226132/index.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/dongnan.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",东南卫视
 http://112.17.40.140/PLTV/88888888/224/3221226134/index.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/img/ZJWS_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/zhejiang.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",浙江卫视
 http://112.50.243.8/PLTV/88888888/224/3221225934/3.m3u8
 
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/img/ZJWS_Logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/zhejiang.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",浙江卫视
 http://112.17.40.140/PLTV/88888888/224/3221226136/index.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/jiangsu.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",江苏卫视
 http://112.17.40.140/PLTV/88888888/224/3221226140/index.m3u8
 
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/805px-Dragon_Television_%28China%29_logo.svg.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/dongfang.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",东方卫视
 http://112.17.40.140/PLTV/88888888/224/3221226142/index.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-name="贵州卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",贵州卫视
+#EXTINF:-1 tvg-id="41" tvg-name="贵州卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/guizhou.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",贵州卫视
 http://112.17.40.140/PLTV/88888888/224/3221226146/index.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-name="辽宁卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",辽宁卫视
+#EXTINF:-1 tvg-id="41" tvg-name="辽宁卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/liaoning.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",辽宁卫视
 http://112.17.40.140/PLTV/88888888/224/3221226148/index.m3u8
 
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/79/SDTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/shandong.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",山东卫视
 http://112.17.40.140/PLTV/88888888/224/3221226144/index.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-name="吉林卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",吉林卫视
+#EXTINF:-1 tvg-id="41" tvg-name="吉林卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/jilin.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",吉林卫视
 http://112.17.40.140/PLTV/88888888/224/3221226158/index.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://image2.sina.com.cn/ent/v/2006-04-28/U1343P28T3D1068267F326DT20060428153108.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/beijing.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",北京卫视
 http://112.17.40.140/PLTV/88888888/224/3221226164/index.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://en.wikipedia.org/wiki/Hunan_Television#/media/File:HunanTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/hunan.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",湖南卫视
 http://112.17.40.140/PLTV/88888888/224/3221226162/index.m3u8
 
 #EXTINF:-1 ,明珠综合1[768*576]
@@ -168,7 +168,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 ,电视剧2[1280*720]
 http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
 
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/TJTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/tianjin.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",天津卫视
 http://112.17.40.140/PLTV/88888888/224/3221226182/index.m3u8
 
 #EXTINF:-1 ,内蒙古卫视[720*576]
@@ -177,19 +177,19 @@ http://112.17.40.140/PLTV/88888888/224/3221226174/index.m3u8
 #EXTINF:-1 ,北京少儿[768*576]
 http://112.17.40.140/PLTV/88888888/224/3221226184/index.m3u8
 
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/anhui.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",安徽卫视
 http://112.17.40.140/PLTV/88888888/224/3221226185/index.m3u8
 
 #EXTINF:-1 ,甘肃卫视[720*576]
 http://112.17.40.140/PLTV/88888888/224/3221226187/index.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/HBTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/hubei.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",湖北卫视
 http://112.17.40.140/PLTV/88888888/224/3221226197/index.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f6/SZSTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",深圳卫视
 http://112.17.40.140/PLTV/88888888/224/3221226203/index.m3u8
 
-#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://github.com/aileiys/Tvlist-awesome-m3u-m3u8/raw/master/media/heilongjiang.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视超清",黑龙江卫视
 http://112.17.40.140/PLTV/88888888/224/3221226201/index.m3u8
 
 #EXTINF:-1 ,宁夏卫视[720*576]
@@ -228,7 +228,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226130/index.m3u8
 #EXTINF:-1 ,西藏卫视[720*576]
 http://112.17.40.140/PLTV/88888888/224/3221226160/index.m3u8
 
-#EXTINF:-1 ,重庆卫视[1280*720]
+#EXTINF:-1 tvg-id="33" tvg-name="重庆卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视标清",重庆卫视
 http://112.17.40.140/PLTV/88888888/224/3221226217/index.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d8/GRT_Satellite_Channel_2016_logo.jpg" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="卫视高清",广东卫视
