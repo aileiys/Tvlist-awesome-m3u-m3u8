@@ -156,7 +156,7 @@ http://10.0.0.1:4022/udp/233.50.201.46:5140
 #EXTINF:-1 tvg-id="29" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/hebei.png" group-title="卫视高清",河北卫视高清
 http://10.0.0.1:4022/udp/233.50.201.140:5140
 
-#EXTINF:-1 tvg-id="29" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/helongjiang.png" group-title="卫视高清",黑龙江高清
+#EXTINF:-1 tvg-id="29" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/heilongjiang.png" group-title="卫视高清",黑龙江高清
 http://10.0.0.1:4022/udp/233.50.201.115:5140
 
 #EXTINF:-1 tvg-id="29" tvg-name="旅游卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/lvyou.png" group-title="卫视",海南卫视
@@ -228,7 +228,7 @@ http://10.0.0.1:4022/udp/233.50.201.101:5140
 #EXTINF:-1 tvg-id="29" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/neimeng.png" group-title="卫视",内蒙古卫视
 http://10.0.0.1:4022/udp/233.50.201.148:5140
 
-#EXTINF:-1 group-title="卫视",甘肃卫视
+#EXTINF:-1 tvg-id="29" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/gansu.png" group-title="卫视",甘肃卫视
 http://10.0.0.1:4022/udp/233.50.201.149:5140
 
 #EXTINF:-1 group-title="4K超清",4K超清
