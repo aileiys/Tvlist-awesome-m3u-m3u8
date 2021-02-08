@@ -150,6 +150,9 @@ http://10.0.0.1:4022/udp/233.50.201.148:5140
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/gansu.png" group-title="卫视",甘肃卫视
 http://10.0.0.1:4022/udp/233.50.201.149:5140
 
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/cgtn.png" group-title="央视高清",CGTN
+http://10.0.0.1:4022/udp/233.50.201.126:5140
+
 #EXTINF:-1 group-title="地方高清",钱江频道高清
 http://10.0.0.1:4022/udp/233.50.201.132:5140
 
@@ -216,7 +219,7 @@ http://10.0.0.1:4022/udp/233.50.201.242:5140
 #EXTINF:-1 group-title="地方",咕噜动漫
 http://10.0.0.1:4022/udp/233.50.201.238:5140
 
-#EXTINF:-1 group-title="地方",哈哈炫动
+#EXTINF:-1  tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/xuandong.png" group-title="地方",哈哈炫动
 http://10.0.0.1:4022/udp/233.50.201.74:5140
 
 #EXTINF:-1 group-title="地方",第二课堂
@@ -233,3 +236,12 @@ http://10.0.0.1:4022/udp/233.50.201.247:5140
 
 #EXTINF:-1 tvg-name="4K超清" group-title="4K超清",4K超清
 http://10.0.0.1:4022/udp/233.50.201.243:5140
+
+#EXTINF:-1 tvg-name="体育赛事" group-title="地方",体育赛事
+http://10.0.0.1:4022/udp/233.50.201.54:5140
+
+#EXTINF:-1 tvg-name="热门综艺" group-title="地方",热门综艺
+http://10.0.0.1:4022/udp/233.50.201.233:5140
+
+#EXTINF:-1 tvg-name="热门综艺" group-title="地方",热门综艺
+http://10.0.0.1:4022/udp/233.50.201.233:5140
