@@ -225,7 +225,7 @@ http://10.0.0.252:4022/udp/233.50.201.74:5140
 #EXTINF:-1 group-title="地方",第二课堂
 http://10.0.0.252:4022/udp/233.50.201.245:5140
 
-#EXTINF:-1 tvg-id="42" tvg-name="中国教育1套" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="地方",中国教育一套
+#EXTINF:-1 tvg-id="98" tvg-name="中国教育1套" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="地方",中国教育一套
 http://10.0.0.252:4022/udp/233.50.201.75:5140
 
 #EXTINF:-1 group-title="地方",中国教育四套
