@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV1.png" group-title="央视高清",中央一套高清
 http://10.0.0.252:4022/udp/233.50.201.118:5140
 
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV16.png" group-title="央视超清",中央十六套4K
+http://10.0.0.252:4022/udp/233.50.201.63:5140
+
 #EXTINF:-1 tvg-id="2" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/zhejiang.png" group-title="卫视高清",浙江卫视高清
 http://10.0.0.252:4022/udp/233.50.201.100:5140
 
