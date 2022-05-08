@@ -45,7 +45,7 @@ http://10.0.0.252:4022/udp/233.50.201.123:5140
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV13.png" group-title="央视高清",中央新闻高清
 http://10.0.0.252:4022/udp/233.50.201.246:5140
 
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV14.png" group-title="央视高清",中央少儿高清
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV14.png" group-title="动漫动画",中央少儿高清
 http://10.0.0.252:4022/udp/233.50.201.124:5140
 
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV15.png" group-title="央视",中央音乐
@@ -141,7 +141,7 @@ http://10.0.0.252:4022/udp/233.50.201.144:5140
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/guangxi.png" group-title="卫视",广西卫视
 http://10.0.0.252:4022/udp/233.50.201.49:5140
 
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/jinyingkatong.png" group-title="地方",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/jinyingkatong.png" group-title="动漫动画",金鹰卡通
 http://10.0.0.252:4022/udp/233.50.201.73:5140
 
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/shenzhen.png" group-title="卫视高清",深圳卫视高清
@@ -171,7 +171,7 @@ http://10.0.0.252:4022/udp/233.50.201.136:5140
 #EXTINF:-1 group-title="地方高清",浙江新闻高清
 http://10.0.0.252:4022/udp/233.50.201.137:5140
 
-#EXTINF:-1 group-title="地方高清",浙江少儿高清
+#EXTINF:-1 group-title="动漫动画",浙江少儿高清
 http://10.0.0.252:4022/udp/233.50.201.138:5140
 
 #EXTINF:-1 group-title="地方高清",杭州综合高清
@@ -219,10 +219,10 @@ http://10.0.0.252:4022/udp/233.50.201.236:5140
 #EXTINF:-1 group-title="地方",情感剧场
 http://10.0.0.252:4022/udp/233.50.201.242:5140
 
-#EXTINF:-1 group-title="地方",咕噜动漫
+#EXTINF:-1 group-title="动漫动画",咕噜动漫
 http://10.0.0.252:4022/udp/233.50.201.238:5140
 
-#EXTINF:-1  tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/xuandong.png" group-title="地方",哈哈炫动
+#EXTINF:-1  tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/xuandong.png" group-title="动漫动画",哈哈炫动
 http://10.0.0.252:4022/udp/233.50.201.74:5140
 
 #EXTINF:-1 group-title="地方",第二课堂
