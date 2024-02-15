@@ -235,9 +235,9 @@ http://10.0.0.252:4022/udp/233.50.201.163:5140
 http://10.0.0.252:4022/udp/233.50.201.169:5140
 #EXTINF:-1 tvg-id="60" tvg-name="之江记录" tvg-logo="http://yourhost/iptv-logo/zjjl.png" group-title="地方",之江记录
 http://10.0.0.252:4022/udp/233.50.202.25:5140
-#EXTINF:-1 tvg-id="49" tvg-name="某地新闻综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",某地新闻综合
+#EXTINF:-1 tvg-id="49" tvg-name="衢州新闻综合" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",某地新闻综合
 http://10.0.0.252:4022/udp/233.50.202.11:5140
-#EXTINF:-1 tvg-id="49" tvg-name="某地公共" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",某地公共
+#EXTINF:-1 tvg-id="49" tvg-name="衢州公共" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",某地公共
 http://10.0.0.252:4022/udp/233.50.202.12:5140
 #EXTINF:-1 tvg-id="48" tvg-name="余杭新闻" tvg-logo="http://yourhost/iptv-logo/null.png" group-title="地方",余杭新闻
 http://10.0.0.252:4022/udp/233.50.201.159:5140
