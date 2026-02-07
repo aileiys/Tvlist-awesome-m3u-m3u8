@@ -33,8 +33,8 @@ http://10.0.0.252:4022/udp/233.50.201.121:5140
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV10.png" group-title="央视高清",中央科教高清
 http://10.0.0.252:4022/udp/233.50.201.122:5140
 
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV11.png" group-title="央视高清",中央戏曲
-http://10.0.0.252:4022/udp/233.50.201.11:5140
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV11.png" group-title="央视高清",中央戏曲高清
+http://10.0.0.252:4022/udp/233.50.200.132:5140
 
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV12.png" group-title="央视高清",中央十二高清
 http://10.0.0.252:4022/udp/233.50.201.123:5140
@@ -45,8 +45,8 @@ http://10.0.0.252:4022/udp/233.50.201.246:5140
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV14.png" group-title="动漫动画",中央少儿高清
 http://10.0.0.252:4022/udp/233.50.201.124:5140
 
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV15.png" group-title="央视",中央音乐
-http://10.0.0.252:4022/udp/233.50.201.15:5140
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV15.png" group-title="央视",中央音乐高清
+http://10.0.0.252:4022/udp/233.50.200.133:5140
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV16.png" group-title="央视高清",CCTV16
 http://10.0.0.252:4022/udp/233.50.201.192:5140
@@ -55,7 +55,7 @@ http://10.0.0.252:4022/udp/233.50.201.192:5140
 http://10.0.0.252:4022/udp/233.50.201.63:5140
 
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV17.png" group-title="央视",中央十七套
-http://10.0.0.252:4022/udp/233.50.201.35:5140
+http://10.0.0.252:4022/udp/233.50.200.113:5140
 
 #EXTINF:-1 tvg-id="81" tvg-name="凤凰卫视中文" tvg-logo="http://yourhost/iptv-logo/fenghuangzhongwen.png" group-title="国际标清",凤凰卫视中文
 http://10.0.0.252:4022/udp/233.50.200.191:5140
@@ -99,11 +99,11 @@ http://10.0.0.252:4022/udp/233.50.201.142:5140
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/sichuan.png" group-title="卫视高清",四川卫视高清
 http://10.0.0.252:4022/udp/233.50.201.139:5140
 
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/jilin.png" group-title="卫视",吉林卫视
-http://10.0.0.252:4022/udp/233.50.201.48:5140
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/jilin.png" group-title="卫视",吉林卫视高清
+http://10.0.0.252:4022/udp/233.50.200.164:5140
 
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/yunnan.png" group-title="卫视",云南卫视
-http://10.0.0.252:4022/udp/233.50.201.46:5140
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/yunnan.png" group-title="卫视",云南卫视高清
+http://10.0.0.252:4022/udp/233.50.200.115:5140
 
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/hebei.png" group-title="卫视高清",河北卫视高清
 http://10.0.0.252:4022/udp/233.50.201.140:5140
@@ -111,8 +111,8 @@ http://10.0.0.252:4022/udp/233.50.201.140:5140
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/heilongjiang.png" group-title="卫视高清",黑龙江高清
 http://10.0.0.252:4022/udp/233.50.201.115:5140
 
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/lvyou.png" group-title="卫视",海南卫视
-http://10.0.0.252:4022/udp/233.50.201.55:5140
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/lvyou.png" group-title="卫视",海南卫视高清
+http://10.0.0.252:4022/udp/233.50.200.165:5140
 
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/dongfang.png" group-title="卫视高清",东方卫视高清
 http://10.0.0.252:4022/udp/233.50.201.125:5140
@@ -167,6 +167,9 @@ http://10.0.0.252:4022/udp/233.50.201.149:5140
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/cgtn.png" group-title="央视高清",CGTN
 http://10.0.0.252:4022/udp/233.50.201.126:5140
+
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="http://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/三沙卫视.png" group-title="卫视",三沙卫视高清
+http://10.0.0.252:4022/udp/233.50.200.175:5140
 
 #EXTINF:-1 group-title="地方高清",钱江频道
 http://10.0.0.252:4022/udp/233.50.201.132:5140
