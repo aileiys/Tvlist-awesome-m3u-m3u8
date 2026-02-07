@@ -57,10 +57,10 @@ http://10.0.0.252:4022/udp/233.50.201.63:5140
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV17.png" group-title="央视",中央十七高清
 http://10.0.0.252:4022/udp/233.50.200.113:5140
 
-#EXTINF:-1 tvg-id="81" tvg-name="凤凰卫视中文" tvg-logo="http://yourhost/iptv-logo/fenghuangzhongwen.png" group-title="国际标清",凤凰卫视中文
+#EXTINF:-1 tvg-id="81" tvg-name="凤凰卫视中文" tvg-logo="http://yourhost/iptv-logo/fenghuangzhongwen.png" group-title="国际高清",凤凰卫视中文高清
 http://10.0.0.252:4022/udp/233.50.202.35:5140
 
-#EXTINF:-1 tvg-id="82" tvg-name="凤凰卫视资讯" tvg-logo="http://yourhost/iptv-logo/fenghuangzixun.png" group-title="国际标清",凤凰卫视资讯
+#EXTINF:-1 tvg-id="82" tvg-name="凤凰卫视资讯" tvg-logo="http://yourhost/iptv-logo/fenghuangzixun.png" group-title="国际高清",凤凰卫视资讯高清
 http://10.0.0.252:4022/udp/233.50.202.36:5140
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/北京卫视4K.png" group-title="4K超高清",北京卫视4K
