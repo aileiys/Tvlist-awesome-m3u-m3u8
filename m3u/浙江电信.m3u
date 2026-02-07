@@ -58,10 +58,10 @@ http://10.0.0.252:4022/udp/233.50.201.63:5140
 http://10.0.0.252:4022/udp/233.50.200.113:5140
 
 #EXTINF:-1 tvg-id="81" tvg-name="凤凰卫视中文" tvg-logo="http://yourhost/iptv-logo/fenghuangzhongwen.png" group-title="国际标清",凤凰卫视中文
-http://10.0.0.252:4022/udp/233.50.200.191:5140
+http://10.0.0.252:4022/udp/233.50.202.35:5140
 
 #EXTINF:-1 tvg-id="82" tvg-name="凤凰卫视资讯" tvg-logo="http://yourhost/iptv-logo/fenghuangzixun.png" group-title="国际标清",凤凰卫视资讯
-http://10.0.0.252:4022/udp/233.50.200.192:5140
+http://10.0.0.252:4022/udp/233.50.202.36:5140
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/北京卫视4K.png" group-title="4K超高清",北京卫视4K
 http://10.0.0.252:4022/udp/233.50.202.100:5140
@@ -192,8 +192,8 @@ http://10.0.0.252:4022/udp/233.50.201.74:5140
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/neimeng.png" group-title="卫视",内蒙古卫视
 http://10.0.0.252:4022/udp/233.50.201.148:5140
 
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/gansu.png" group-title="卫视",甘肃卫视
-http://10.0.0.252:4022/udp/233.50.201.149:5140
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/gansu.png" group-title="卫视高清",甘肃卫视高清
+http://10.0.0.252:4022/udp/233.50.200.163:5140
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/cgtn.png" group-title="央视高清",CGTN
 http://10.0.0.252:4022/udp/233.50.201.126:5140
