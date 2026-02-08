@@ -45,16 +45,16 @@ http://10.0.0.252:4022/udp/233.50.201.246:5140
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV14.png" group-title="动漫动画",中央少儿高清
 http://10.0.0.252:4022/udp/233.50.201.124:5140
 
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV15.png" group-title="央视",中央音乐高清
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV15.png" group-title="央视高清",中央音乐高清
 http://10.0.0.252:4022/udp/233.50.200.133:5140
 
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV16.png" group-title="央视高清",CCTV16
 http://10.0.0.252:4022/udp/233.50.201.192:5140
 
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV16.png" group-title="4K超清",CCTV奥林匹克频道
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16 4K" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV16.png" group-title="4K超高清",CCTV奥林匹克频道
 http://10.0.0.252:4022/udp/233.50.201.63:5140
 
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV17.png" group-title="央视",中央十七高清
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/aileiys/Tvlist-awesome-m3u-m3u8/master/media/CCTV17.png" group-title="央视高清",中央十七高清
 http://10.0.0.252:4022/udp/233.50.200.113:5140
 
 #EXTINF:-1 tvg-id="81" tvg-name="凤凰卫视中文" tvg-logo="http://yourhost/iptv-logo/fenghuangzhongwen.png" group-title="国际高清",凤凰卫视中文高清
